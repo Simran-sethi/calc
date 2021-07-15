@@ -1,0 +1,26 @@
+body{
+    background-color:azure;
+    border: 2px solid;
+    padding:40px 13px 40px 35px;
+    vertical-align:middle;
+    text-align: center;
+    font-size:100px;
+  }
+  input[type=button],input[type=reset],input[type=backspace]{
+    background-color:lightblack;
+    width:200px;
+    height:200px;
+    font-weight:solid;
+    font-family:arial;
+    font-size:60px;
+    color:gray;
+    
+  }
+  input[type=textfield]{
+  border:20px solidblack;
+  width:872px;
+  height:160px;
+  color:black;
+  background-color:white;
+  font-size:50px;
+  }
